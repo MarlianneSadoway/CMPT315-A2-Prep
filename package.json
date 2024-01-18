@@ -1,0 +1,12 @@
+{
+  "name": "marliannesadoway-cmpt315-a2-prep",
+  "version": "1.0.0",
+  "description": "Lab 2 - Prepping for Assignment 2\r ## Purpose\r **_BEWARE:_ This library was published for learning purposes. It is _not_ intended to do anything else. \r ## Usage\r **Install it:**\r `npm install @marliannesadoway/CMPT315-A2-PREP`\r **Require it:**\r `const _ = require('@marliannesadoway/CMPT315-A2-PREP');`\r **Call it:**\r `const results = _.firstFunction()`\r ## Documentation\r The following functions are currently implemented:\r * `function1(...)`: description\r * `function2(...)`: description\r * `function3(...)`: description",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": ["lab2", "A2", "A2 prep"],
+  "author": "Marlianne Sadoway",
+  "license": "ISC"
+}
